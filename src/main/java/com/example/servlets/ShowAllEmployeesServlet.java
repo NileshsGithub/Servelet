@@ -85,7 +85,6 @@ public class ShowAllEmployeesServlet extends HttpServlet {
             System.out.println(e1.getMessage());
         }
 
-
     }
 
     /**
